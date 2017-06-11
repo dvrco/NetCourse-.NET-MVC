@@ -1,0 +1,41 @@
+﻿@model NetCourse.Models.Material
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+<div class="container">
+    <h2>Add new material</h2>
+@using (Html.BeginForm("Create", "Material"))
+{
+
+
+   
+    @Html.LabelFor(m => m.Name)
+
+    <br />
+
+            @Html.TextBoxFor(m => m.Name)
+            @Html.ValidationMessageFor(m => m.Name)
+
+            <br />
+
+    @Html.LabelFor(m => m.Description)
+
+     <br />
+
+            @Html.TextAreaFor(m => m.Description)
+            @Html.ValidationMessageFor(m => m.Description)
+
+            <input type="submit" value="Dodaj" class="btn btn-large" />
+            <br /><br />
+
+
+            @Html.ValidationSummary()
+  
+}
+
+</div>

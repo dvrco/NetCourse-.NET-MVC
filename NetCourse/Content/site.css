@@ -1,0 +1,79 @@
+﻿        nav ul a, nav .brand-logo {
+            color: #444;
+        }
+
+        .parallax-container {
+            background-color: rgba(0,0,0,0.6);
+        }
+
+            .parallax-container h1.header {
+                color: orange;
+                text-transform: uppercase;
+                letter-spacing: 0.5em;
+            }
+
+            .parallax-container p.header {
+                font-size: 2rem;
+                color: #fff;
+            }
+
+        .hidden {
+            display: none;
+        }
+
+        .last-added h1 {
+            font-size: 2rem;
+            text-transform: uppercase;
+        }
+
+        .last-added h2 {
+            display: none;
+        }
+
+        .last-added footer h3 {
+            font-size: 1.2rem;
+            border-bottom: 1px solid #ddd;
+            width: 60%;
+            text-transform: uppercase;
+            letter-spacing: 0.5em;
+        }
+
+        .last-added footer, .last-added footer {
+            font-size: 0.8rem;
+        }
+
+        article p {
+            text-align: justify;
+        }
+
+        .last-added article {
+            margin-right: 1em;
+        }
+
+        .logo img {
+            width: 3%;
+            margin: 0.5%;
+            vertical-align: middle;
+            margin-right: 0.5em;
+        }
+
+
+        .logo {
+            color: #444;
+            text-transform: uppercase;
+            letter-spacing: 0.3em;
+            font-size: 2em;
+        }
+
+        .footer-header img {
+            background-position: 10em;
+        }
+
+        .parallax-container.footer-header {
+            background-color: rgba(0,0,0,0.3);
+        }
+
+
+        main{
+            margin: 0 1.5em;
+        }

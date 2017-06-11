@@ -1,0 +1,101 @@
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\ApplicationInsights.config
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\roslyn\csc.exe
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\roslyn\System.Collections.Immutable.dll
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\roslyn\vbc.exe
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\roslyn\VBCSCompiler.exe
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\roslyn\VBCSCompiler.exe.config
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\NetCourse.dll.config
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\NetCourse.dll
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\NetCourse.pdb
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\Microsoft.AI.Web.dll
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\Microsoft.AI.WindowsServer.dll
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\Microsoft.ApplicationInsights.dll
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\Microsoft.Web.Infrastructure.dll
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\System.Web.Helpers.dll
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\System.Web.Mvc.dll
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\System.Web.Razor.dll
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\System.Web.Webpages.Deployment.dll
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\System.Web.Webpages.dll
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\System.Web.Webpages.Razor.dll
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\Microsoft.AI.Web.xml
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\Microsoft.AI.WindowsServer.xml
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\Microsoft.ApplicationInsights.xml
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\System.Web.Razor.xml
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\System.Web.Webpages.xml
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\System.Web.Webpages.Deployment.xml
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\System.Web.Webpages.Razor.xml
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\System.Web.Helpers.xml
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\bin\System.Web.Mvc.xml
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\obj\Debug\NetCourse.csprojResolveAssemblyReference.cache
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\obj\Debug\NetCourse.dll
+c:\users\s13898\documents\visual studio 2015\Projects\NetCourse\NetCourse\obj\Debug\NetCourse.pdb
+Z:\SEM4\NetCourse\NetCourse\bin\ApplicationInsights.config
+Z:\SEM4\NetCourse\NetCourse\bin\roslyn\csc.exe
+Z:\SEM4\NetCourse\NetCourse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\SEM4\NetCourse\NetCourse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\SEM4\NetCourse\NetCourse\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\SEM4\NetCourse\NetCourse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\SEM4\NetCourse\NetCourse\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\SEM4\NetCourse\NetCourse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\SEM4\NetCourse\NetCourse\bin\roslyn\System.Collections.Immutable.dll
+Z:\SEM4\NetCourse\NetCourse\bin\roslyn\System.Reflection.Metadata.dll
+Z:\SEM4\NetCourse\NetCourse\bin\roslyn\vbc.exe
+Z:\SEM4\NetCourse\NetCourse\bin\roslyn\VBCSCompiler.exe
+Z:\SEM4\NetCourse\NetCourse\bin\roslyn\VBCSCompiler.exe.config
+Z:\SEM4\NetCourse\NetCourse\bin\NetCourse.dll.config
+Z:\SEM4\NetCourse\NetCourse\bin\NetCourse.dll
+Z:\SEM4\NetCourse\NetCourse\bin\NetCourse.pdb
+Z:\SEM4\NetCourse\NetCourse\bin\Microsoft.AI.Agent.Intercept.dll
+Z:\SEM4\NetCourse\NetCourse\bin\Microsoft.AI.DependencyCollector.dll
+Z:\SEM4\NetCourse\NetCourse\bin\Microsoft.AI.PerfCounterCollector.dll
+Z:\SEM4\NetCourse\NetCourse\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Z:\SEM4\NetCourse\NetCourse\bin\Microsoft.AI.Web.dll
+Z:\SEM4\NetCourse\NetCourse\bin\Microsoft.AI.WindowsServer.dll
+Z:\SEM4\NetCourse\NetCourse\bin\Microsoft.ApplicationInsights.dll
+Z:\SEM4\NetCourse\NetCourse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\SEM4\NetCourse\NetCourse\bin\Microsoft.Web.Infrastructure.dll
+Z:\SEM4\NetCourse\NetCourse\bin\System.Web.Helpers.dll
+Z:\SEM4\NetCourse\NetCourse\bin\System.Web.Mvc.dll
+Z:\SEM4\NetCourse\NetCourse\bin\System.Web.Razor.dll
+Z:\SEM4\NetCourse\NetCourse\bin\System.Web.Webpages.Deployment.dll
+Z:\SEM4\NetCourse\NetCourse\bin\System.Web.Webpages.dll
+Z:\SEM4\NetCourse\NetCourse\bin\System.Web.Webpages.Razor.dll
+Z:\SEM4\NetCourse\NetCourse\bin\Microsoft.AI.DependencyCollector.xml
+Z:\SEM4\NetCourse\NetCourse\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Z:\SEM4\NetCourse\NetCourse\bin\Microsoft.AI.Web.xml
+Z:\SEM4\NetCourse\NetCourse\bin\Microsoft.AI.WindowsServer.xml
+Z:\SEM4\NetCourse\NetCourse\bin\Microsoft.ApplicationInsights.xml
+Z:\SEM4\NetCourse\NetCourse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\SEM4\NetCourse\NetCourse\bin\System.Web.Razor.xml
+Z:\SEM4\NetCourse\NetCourse\bin\System.Web.Webpages.xml
+Z:\SEM4\NetCourse\NetCourse\bin\System.Web.Webpages.Deployment.xml
+Z:\SEM4\NetCourse\NetCourse\bin\System.Web.Webpages.Razor.xml
+Z:\SEM4\NetCourse\NetCourse\bin\System.Web.Helpers.xml
+Z:\SEM4\NetCourse\NetCourse\bin\System.Web.Mvc.xml
+Z:\SEM4\NetCourse\NetCourse\obj\Debug\NetCourse.csprojResolveAssemblyReference.cache
+Z:\SEM4\NetCourse\NetCourse\obj\Debug\NetCourse.dll
+Z:\SEM4\NetCourse\NetCourse\obj\Debug\NetCourse.pdb
+Z:\SEM4\NetCourse\NetCourse\bin\EntityFramework.dll
+Z:\SEM4\NetCourse\NetCourse\bin\EntityFramework.SqlServer.dll
+Z:\SEM4\NetCourse\NetCourse\bin\EntityFramework.xml
+Z:\SEM4\NetCourse\NetCourse\bin\EntityFramework.SqlServer.xml
+Z:\SEM4\NetCourse\NetCourse\obj\Debug\NetCourse.Migrations.Initial.resources
+Z:\SEM4\NetCourse\NetCourse\obj\Debug\NetCourse.csproj.GenerateResource.Cache
+Z:\SEM4\NetCourse\NetCourse\obj\Debug\NetCourse.Migrations.DodanoTabeleCourses.resources
+Z:\SEM4\NetCourse\NetCourse\obj\Debug\NetCourse.Migrations.AddedMaterialsTable.resources
+Z:\SEM4\NetCourse\NetCourse\obj\Debug\NetCourse.Migrations.materialy.resources

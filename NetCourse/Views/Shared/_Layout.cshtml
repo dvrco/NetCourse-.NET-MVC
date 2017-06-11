@@ -1,0 +1,99 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="keywords" content="course, study, teach, material">
+    <meta name="description" content="Here you will find great c# materials">
+    <title>@ViewBag.Title</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/css/materialize.min.css">
+    <link rel="stylesheet" href='@Url.Content("~//Content//site.css")' />
+
+</head>
+<body>
+    <nav class="white" role="navigation">
+        <div class="nav-wrapper container">
+            <a id="logo-container" href="#" class="logo"><img src='@Url.Content("~//Content//logo.svg")' alt="Net Course logo" />Net Course</a>
+            <ul class="right hide-on-med-and-down">
+                <li><a href="#">Courses</a></li>
+                <li><a href="#">@Html.ActionLink("Add new material", "Create", "Material")</a></li> 
+                <li>@Html.ActionLink("About us", "AboutUs")</li>
+            </ul>
+
+            <ul id="nav-mobile" class="side-nav">
+                <li><a href="#">Courses</a></li>
+                <li><a href="#">@Html.ActionLink("Add new material", "Create", "Material")</a></li>
+                <li>@Html.ActionLink("About us", "AboutUs")</li>
+            </ul>
+
+            <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
+        </div>
+    </nav>
+    
+    <header class="parallax-container">
+        <div class="section no-pad-bot">
+            <div class="container">
+                <br><br><br><br>
+                <h1 class="header center">Net Course</h1>
+                <div class="row center">
+                    <p class="header col s12 light">Place to learn various programming techniques</p>
+                </div>
+                <div class="row center">
+                    <a href="#" class="btn-large waves-effect waves-light orange lighten-1">Show courses</a>
+                </div>
+            </div>
+        </div>
+        <div class="parallax"><img src='@Url.Content("~//Content//bg.jpg")' alt="aa"></div>
+    </header>
+
+    <main>
+        @RenderBody();
+    </main>
+
+
+    <div class="footer-header parallax-container valign-wrapper">
+        <div class="parallax"><img src='@Url.Content("~//Content/bg2.jpg")' alt="Unsplashed background img 3"></div>
+    </div>
+
+
+
+    <footer class="page-footer orange">
+        <div class="container">
+            <div class="row">
+                <div class="col l6 s12">
+                    <h5 class="white-text">Company Bio</h5>
+                    <p class="grey-text text-lighten-4">We are a team of college students working on this project like it's our full time job. Any amount would help support and continue development on this project and is greatly appreciated.</p>
+
+
+                </div>
+                <div class="col l3 s12">
+                    <h5 class="white-text">Pages</h5>
+                    <ul>
+                        <li>@Html.ActionLink("Courses", "Index","Home", null, null)</li>
+                        <li>@Html.ActionLink("About Us", "AboutUs", "Home", null, null)</li>
+                        <li><a class="white-text" href="#!">Link 3</a></li>
+                        <li><a class="white-text" href="#!">Link 4</a></li>
+                    </ul>
+                </div>
+              
+            </div>
+        </div>
+        <div class="footer-copyright">
+            <div class="container">
+               @DateTime.UtcNow.Year
+            </div>
+        </div>
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js"></script>
+
+    <script src="~/Scripts/init.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+</body>
+</html>

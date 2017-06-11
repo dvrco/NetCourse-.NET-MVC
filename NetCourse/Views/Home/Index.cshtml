@@ -1,0 +1,36 @@
+﻿@model IList<NetCourse.Models.Course>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "NetCourse - Index";
+}
+
+   
+    <section class="container section last-added">
+        <h1 class="hidden">3 last added courses</h1>
+        <div class="row">
+            @foreach (var i in Model)
+            {
+
+                <div class="col s12 m4">
+                    <article class="icon-block">
+                        <header>
+                            <div class="center brown-text"><i class="large material-icons">insert_chart</i></div>
+                            <h1 class="center">@i.Name</h1>
+                        </header>
+                        <section>
+                            <h2>@i.Name</h2>
+                            <p class="light">
+                                @i.Description
+                            </p>
+                        </section>
+                        <footer>
+                            <h3>Author Bio</h3>
+                            <p>This is sample text</p>
+                        </footer>
+                    </article>
+                </div>
+
+            }
+            </div>
+    </section>
+
